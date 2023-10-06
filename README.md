@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PREDICTIVE ANALYTICS,BIG DATA FUNDAMENTALS**
 
-- 💬 Ask me about **Tableau prep&Desktop,Informatica Developer&Powercenter**
+- 💬 Ask me about ** Data Science, Tableau prep&Desktop, Informatica Developer&Powercenter**
 
 - 📫 How to reach me **sahildogra932@gmail.com**
 
